@@ -1,0 +1,29 @@
+body {
+    background-color: #B7CDF6    ;
+    color: black;
+    font-size: 40px;
+    
+}
+h1 {
+    text-align: center;
+    color: yellow; background-color: black;
+}
+
+.normal {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pic{
+    
+    max-width: 100%;
+    
+}
+
+
+
+
+
